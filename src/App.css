@@ -1,6 +1,21 @@
 .App {
   text-align: center;
 }
+.button {
+  background-color:lightgrey;
+  font-size: 20px;
+  padding: 14px 40px;
+  margin: 2px 2px;
+}
+
+.answer {
+  font-size: 20px;
+  text-align: center;
+  margin: 0 auto;
+  width: 600px;
+  height: 5 0px;
+  border: solid black;
+}
 
 .App-logo {
   height: 40vmin;
